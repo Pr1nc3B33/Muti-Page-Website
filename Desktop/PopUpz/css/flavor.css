@@ -21,7 +21,7 @@ body {
 
 .container {
     width: min(1100px, 90%);
-    margin: 0; auto;
+    margin: 0 auto;
 }
 .section {
     padding: 48px;
@@ -110,7 +110,7 @@ body {
 }
 
 .card {
-    backround: #fff;
+    background: #fff;
     border-radius: 14px;
     overflow: hidden;
     box-shadow: 0 4px rgba(0,0,0,0.1);
