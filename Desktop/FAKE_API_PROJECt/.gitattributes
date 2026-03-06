@@ -4,11 +4,6 @@
 *.jsx  linguist-language=JavaScript
 *.ts   linguist-language=TypeScript
 *.tsx  linguist-language=TypeScript
-*.css  linguist-language=CSS
-*.html linguist-language=HTML
-*.md   linguist-language=Markdown
-*.yml  linguist-language=YAML
-*.yaml linguist-language=YAML
 
-# If one file has no extension, force it explicitly:
-# path/to/your_file linguist-language=Python
+# IMPORTANT: exact path for the file not highlighting (replace with your real path)
+path/to/problem_file linguist-language=Python
